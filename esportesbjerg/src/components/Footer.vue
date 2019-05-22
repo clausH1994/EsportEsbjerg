@@ -1,7 +1,9 @@
 <template>
-    <div>
+
     <div id="footerline">
-        <div id="footerbox">
+        <v-container>
+
+        <v-card id="footerbox">
             <v-layout align-center justify-space-around row fill-height>
                 <div>
                     <p class="textfooter">Adresse</p>
@@ -11,14 +13,14 @@
                     <p class="textfooter"> Kontakt</p>
                     <span class="textfooter" >Kontakt@EsportEsbjerg.dk <br> 33333333</span>
                 </div>
-                <img src="../assets/img/facebook-square-brands.svg">
-                <img src="../assets/img/discord-brands.svg">
-                <img src="../assets/img/instagram-brands.svg">
-                <img src="../assets/img/teamspeak-brands.svg">
+                <img src="../assets/img/facebook.png">
+                <img src="../assets/img/discord.png">
+                <img src="../assets/img/instagram.png">
+                <img src="../assets/img/teamspeak.png">
             </v-layout>
+        </v-card>
+        </v-container>
         </div>
-        </div>
-    </div>
 </template>
 
 <script>
@@ -40,7 +42,7 @@
 #footerbox
 {
     height: 165px;
-    width: 90%;
+    width: auto;
     border:map-get($colorz, color2) solid 1px;
     box-shadow: $shadow;
     padding: 25px;
@@ -53,6 +55,6 @@
 }
 img
 {
-    height: 50px;
+    height: 100px;
 }
 </style>

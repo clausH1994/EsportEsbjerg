@@ -1,10 +1,9 @@
 <template>
     <v-toolbar id="header" app>
-
         <v-layout align-center justify-space-around row fill-height>
             <div class="boxeshead">
-                <span class="textheader">FORSIDE</span>
-                <span class="textheader">TILMELDING</span>
+                <router-link to="/" class="textheader">FORSIDE</router-link>
+                <router-link to="/tilmelding" class="textheader">TILMELDING</router-link>
                 <span class="textheader">FORÆLDRE</span>
             </div>
             <div id="midbox">
@@ -58,6 +57,7 @@
     }
     .textheader
     {
+        text-decoration: none;
         font-family: $font1;
         color: map_get($colorz, color1);
         font-size: 32px;
