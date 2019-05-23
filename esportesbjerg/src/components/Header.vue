@@ -2,18 +2,17 @@
     <v-toolbar id="header" app>
         <v-layout align-center justify-space-around row fill-height>
             <div class="boxeshead">
-                <router-link to="/" class="textheader">FORSIDE</router-link>
-                <router-link to="/tilmelding" class="textheader">TILMELDING</router-link>
-                <span class="textheader">FORÆLDRE</span>
+
+                <router-link to="/tilmelding" style="margin-left: 32%" class="textheader">TILMELDING</router-link>
+                <router-link to="/forældre" class="textheader">FORÆLDRE</router-link>
             </div>
-            <div id="midbox">
-                <div id="logo"></div>
+             <div id="midbox">
+                 <router-link to="/" style="height: 110px; width: 100px; position: absolute"></router-link>
+                  <div id="logo"></div>
             </div>
             <div class="boxeshead">
                 <span class="textheader">FAQ</span>
-                <span class="textheader">FORUM</span>
-                <span class="textheader">KALENDER</span>
-                <span class="textheader">LOGIN</span>
+                <router-link to="/kalender" class="textheader">KALENDER</router-link>
             </div>
         </v-layout>
     </v-toolbar>
@@ -34,7 +33,6 @@
     #logo
     {
         background-image: url("../assets/img/logoSVG.svg");
-
         height: 150px;
         width: 150px;
     }
@@ -47,6 +45,7 @@
         justify-content: center;
         align-items: center;
         padding-top: 60px;
+
     }
 
     .boxeshead
@@ -55,6 +54,7 @@
         width: 700px;
         padding: 25px 5px 20px 10px;
     }
+
     .textheader
     {
         text-decoration: none;
