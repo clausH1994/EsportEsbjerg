@@ -4,6 +4,7 @@ import Tilmelding from './views/Tilmelding.vue'
 import FrontPage from './views/FrontPage.vue'
 import Kalender from './views/Kalender.vue'
 import Forældre from './views/Forældre.vue'
+import Faq from './views/FAQ.vue'
 
 Vue.use(Router)
 
@@ -30,6 +31,11 @@ export default new Router({
       path: '/forældre',
       name: 'forældre',
       component: Forældre
+    },
+    {
+      path: '/faq',
+      name: 'faq',
+      component: Faq
     },
   ]
 })

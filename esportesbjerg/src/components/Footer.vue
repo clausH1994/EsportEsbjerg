@@ -11,11 +11,11 @@
                 </div>
                 <div>
                     <p class="textfooter"> Kontakt</p>
-                    <span class="textfooter" >Kontakt@EsportEsbjerg.dk <br> 33333333</span>
+                    <span class="textfooter" >support@esport-esbjerg.dk <br> 31 13 17 74</span>
                 </div>
                 <img src="../assets/img/facebook.png">
-                <img src="../assets/img/discord.png">
                 <img src="../assets/img/instagram.png">
+                <img src="../assets/img/discord.png">
                 <img src="../assets/img/teamspeak.png">
             </v-layout>
         </v-card>

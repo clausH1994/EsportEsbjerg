@@ -8,7 +8,31 @@
                         <v-card id="img2" class="smallbox box"></v-card>
                     </v-flex>
                     <v-flex xs12 sm6>
-                        <v-card class="bigbox box"></v-card>
+                        <v-card class="bigbox box">
+                            <h1>Forældre</h1>
+                            <div class="spacing">
+                            <span>E-Sport bliver mere og mere udbredt rundt omkring i verden, og vi i e-Sport Esbjerg vil forsøge at sætte esbjerg på kortet.
+E-Sport i Danmark er i højvækst og ud fra statistikker kan det ses at antallet af E-Sportsforeninger er steget med 130,43 % fra 2017 til 2018, 79 i 2017 til 214 i 2018.
+
+
+Træningstid: Mandag til Torsdag 18-20
+Prisen for at deltage i træning kræver at der er lavet et basis medlemskab på 100 kr
+derefter vil det koste:
+</span>
+                            </div>
+                            <ul>
+                                <li>300 kr for en dags træning i ugen.</li>
+                                <li>500 kr for to dages træning i ugen.</li>
+                                <li>750 kr for fire dages træning i ugen.</li>
+                            </ul>
+                            <div class="spacing">
+                            <span>
+                                eSport Esbjerg er åben for at starte hold op inde for alle spil, men lige nu har vi kun hold is CS:GO og Fortnite, hvis der er nok der bakker op omkring et spil bliver der starter et hold op inde for det spil også.
+
+Alt udstyr bliver stillet til rådighed ved tilmelding af medlem dog anbefaler vi at dit barn har dit eget udstyr med. Samtidig sikrer vi at alle er med i god ånd samt at der vil blive holdt en sober tone under alle lektioner da vi lægger stor vægt på at der skal være plads til alle i vores forening.
+                            </span>
+                            </div>
+                        </v-card>
                     </v-flex>
                     <v-flex xs12 sm3>
                         <v-card id="img3" class="smallbox box"></v-card>
@@ -40,30 +64,38 @@
         background-size: cover;
     }
 
-    .bigbox
-    {
+    .bigbox {
         height: 500px;
+        padding: 15px;
+        font-family: $font2;
+        font-size: 16px;
+    }
+
+    .spacing
+    {
+        margin: 8px;
     }
 
     .box {
         border: map-get($colorz, color2) solid 1px;
-        box-shadow: map_get($colorz, color2);
+        box-shadow: $shadow;
         margin: 10px;
     }
-    #img1
-    {
 
+
+    #img1 {
+        background-image: url("../assets/img/gaming1.png");
     }
-    #img2
-    {
 
+    #img2 {
+        background-image: url("../assets/img/træner.png");
     }
-    #img3
-    {
 
+    #img3 {
+        background-image: url("../assets/img/drengløb.png");
     }
-    #img4
-    {
 
+    #img4 {
+        background-image: url("../assets/img/gaming2.png");
     }
 </style>

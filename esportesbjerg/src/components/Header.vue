@@ -11,7 +11,7 @@
                   <div id="logo"></div>
             </div>
             <div class="boxeshead">
-                <span class="textheader">FAQ</span>
+                <router-link to="/faq" class="textheader">FAQ</router-link>
                 <router-link to="/kalender" class="textheader">KALENDER</router-link>
             </div>
         </v-layout>

@@ -10,8 +10,8 @@
                                     <h1>Basis medlemskab:</h1>
                                     <div style="margin-top: 15px">
                         <span>
-100 kr om året.
-Som sponsor får du nogle fordele samt du støtter lokalsporten.
+100 kr om året. <br> <br>
+Som medlem får du nogle fordele samt du støtter lokalsporten.
 Disse fordele er:
 </span>
                                     </div>
@@ -28,14 +28,13 @@ Disse fordele er:
                         <v-flex xs12 sm6>
                             <v-card class="tilbox">
                                 <v-card-text>
-                                <h1>Deltager medlemskab:</h1>
-                                <div style="margin-top: 15px">
+                                    <h1>Deltager medlemskab:</h1>
+                                    <div style="margin-top: 15px">
                         <span>
-Som medlem af eSport Esbjerg er du en del af spiller teamet og kan vælge
-mellem at træne selv eller have en træner på til at hjælpe dig med at forbedre dit spil. <br> <br>
-Træning:
+Dette medlemskab kræver koster også 100 kr om året for basismedlem oveni deltager prisen. <br> <br>
+Den samlede pris includere træning med hold og i fællesskab med andre børn/unge med samme interesse.
 </span>
-                                </div>
+                                    </div>
                                     <ul>
                                         <li>300 kr for en gang i ugen.</li>
                                         <li>500 kr for to gang i ugen.</li>
@@ -47,7 +46,21 @@ Træning:
                         </v-flex>
                         <v-flex xs12 sm12>
                             <div id="centerbutton">
-                                <v-btn id="btnTilmeld">Tilmeld</v-btn>
+
+                                <v-dialog v-model="dialog" persistent max-width="290">
+                                <template v-slot:activator="{ on }">
+                                    <v-btn id="btnTilmeld" v-on="on">Tilmeld</v-btn>
+                                </template>
+                                <v-card>
+                                    <v-card-title class="headline">Use Google's location service?</v-card-title>
+                                    <v-card-text>Let Google help apps determine location. This means sending anonymous location data to Google, even when no apps are running.</v-card-text>
+                                    <v-card-actions>
+                                        <v-spacer></v-spacer>
+                                        <v-btn color="green darken-1" flat @click="dialog = false">Disagree</v-btn>
+                                        <v-btn color="green darken-1" flat @click="dialog = false">Agree</v-btn>
+                                    </v-card-actions>
+                                </v-card>
+                            </v-dialog>
                             </div>
                         </v-flex>
                     </v-layout>
@@ -59,7 +72,12 @@ Træning:
 
 <script>
     export default {
-        name: "Adding"
+        name: "Adding",
+        data () {
+            return {
+                dialog: false
+            }
+        }
     }
 </script>
 
