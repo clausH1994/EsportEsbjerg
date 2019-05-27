@@ -46,9 +46,8 @@
 <style lang="scss" scoped>
     #outerbox {
         border: map-get($colorz, color2) solid 1px;
-        height: 600px;
         margin: 40px 0 20px 0;
-        padding: 30px;
+        padding: 20px;
     }
 
     #newsbox2 {

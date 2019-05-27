@@ -1,8 +1,8 @@
 <template>
     <v-container>
         <v-layout text-sx-center wrap>
-            <v-flex xs12 sm12>
-                <v-card id="outerbox">
+            <v-card id="outerbox">
+                <v-layout text-sx-center wrap>
                     <v-flex xs12 sm3>
                         <v-card id="img1" class="smallbox box"></v-card>
                         <v-card id="img2" class="smallbox box"></v-card>
@@ -27,9 +27,10 @@ derefter vil det koste:
                             </ul>
                             <div class="spacing">
                             <span>
-                                eSport Esbjerg er åben for at starte hold op inde for alle spil, men lige nu har vi kun hold is CS:GO og Fortnite, hvis der er nok der bakker op omkring et spil bliver der starter et hold op inde for det spil også.
+                                eSport Esbjerg er åben for at starte hold op inde for alle spil, men lige nu har vi kun hold i CS:GO og Fortnite. <br>
 
-Alt udstyr bliver stillet til rådighed ved tilmelding af medlem dog anbefaler vi at dit barn har dit eget udstyr med. Samtidig sikrer vi at alle er med i god ånd samt at der vil blive holdt en sober tone under alle lektioner da vi lægger stor vægt på at der skal være plads til alle i vores forening.
+Alt udstyr bliver stillet til rådighed ved tilmelding af medlem dog anbefaler vi at dit barn har dit eget udstyr med. Der vil blive holdt en sober tone under alle lektioner da vi lægger stor vægt på at der skal være plads til alle i vores forening. Dette kan vi sikre da vi har en pædagog til rådighed hvis der skulle opstå nogle former for konflikter.
+
                             </span>
                             </div>
                         </v-card>
@@ -38,8 +39,8 @@ Alt udstyr bliver stillet til rådighed ved tilmelding af medlem dog anbefaler v
                         <v-card id="img3" class="smallbox box"></v-card>
                         <v-card id="img4" class="smallbox box"></v-card>
                     </v-flex>
-                </v-card>
-            </v-flex>
+                </v-layout>
+            </v-card>
         </v-layout>
     </v-container>
 </template>
@@ -53,26 +54,23 @@ Alt udstyr bliver stillet til rådighed ved tilmelding af medlem dog anbefaler v
 <style lang="scss" scoped>
     #outerbox {
         border: map-get($colorz, color2) solid 1px;
-        height: 600px;
         margin: 40px 0 20px 0;
         padding: 30px;
-        display: flex;
     }
 
     .smallbox {
-        height: 245px;
+        height: 255px;
         background-size: cover;
     }
 
     .bigbox {
-        height: 500px;
+
         padding: 15px;
         font-family: $font2;
         font-size: 16px;
     }
 
-    .spacing
-    {
+    .spacing {
         margin: 8px;
     }
 

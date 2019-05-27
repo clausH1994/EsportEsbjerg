@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aadf886-83ee-4acd-a54a-c56ea54003a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/esportesbjerg/src/views/FAQ.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esportesbjerg/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esportesbjerg/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esportesbjerg/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esportesbjerg/src/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/src/components/Footer.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esportesbjerg/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/src/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esportesbjerg/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esportesbjerg/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esportesbjerg/src/views/FAQ.vue" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/src/views/FAQ.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esportesbjerg/src/views/Forældre.vue" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/src/views/Forældre.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esportesbjerg/src/views/FrontPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/src/views/FrontPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esportesbjerg/src/views/Kalender.vue" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/src/views/Kalender.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/esportesbjerg/src/views/Tilmelding.vue" beforeDir="false" afterPath="$PROJECT_DIR$/esportesbjerg/src/views/Tilmelding.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,79 +27,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/FrontPage.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#v-card#0;n#v-flex#1;n#v-layout#0;n#v-container#0;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#v-card#0;n#v-flex#1;n#v-layout#0;n#v-container#0;n#div#2;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/Kalender.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="37" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="37" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#v-card#0;n#v-flex#1;n#v-layout#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#template#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esportesbjerg/src/router.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/FAQ.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="18" column="90" selection-start-line="18" selection-start-column="90" selection-end-line="18" selection-end-column="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/esportesbjerg/src/components/Footer.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="-259">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/Tilmelding.vue">
+        <entry file="file://$PROJECT_DIR$/esportesbjerg/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="74" column="23" lean-forward="true" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+            <state relative-caret-position="168">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#v-card-text#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#v-card-text#0;n#v-card#0;n#v-flex#1;n#v-layout#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/esportesbjerg/src/styles/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -121,21 +68,22 @@
         <option value="$PROJECT_DIR$/esportesbjerg/vue.config.js" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/views/About.vue" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/styles/_variables.css" />
-        <option value="$PROJECT_DIR$/esportesbjerg/public/index.html" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/components/HelloWorld.vue" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/views/Home.vue" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/styles/_variables.scss" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/views/Adding.vue" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/App.vue" />
-        <option value="$PROJECT_DIR$/esportesbjerg/src/views/Kalender.vue" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/views/Forum.vue" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/router.js" />
-        <option value="$PROJECT_DIR$/esportesbjerg/src/components/Header.vue" />
-        <option value="$PROJECT_DIR$/esportesbjerg/src/views/Forældre.vue" />
+        <option value="$PROJECT_DIR$/esportesbjerg/public/index.html" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/views/FAQ.vue" />
-        <option value="$PROJECT_DIR$/esportesbjerg/src/components/Footer.vue" />
-        <option value="$PROJECT_DIR$/esportesbjerg/src/views/FrontPage.vue" />
+        <option value="$PROJECT_DIR$/esportesbjerg/src/components/Header.vue" />
+        <option value="$PROJECT_DIR$/esportesbjerg/src/views/Kalender.vue" />
         <option value="$PROJECT_DIR$/esportesbjerg/src/views/Tilmelding.vue" />
+        <option value="$PROJECT_DIR$/esportesbjerg/src/views/Forældre.vue" />
+        <option value="$PROJECT_DIR$/esportesbjerg/src/views/FrontPage.vue" />
+        <option value="$PROJECT_DIR$/esportesbjerg/src/components/Footer.vue" />
+        <option value="$PROJECT_DIR$/esportesbjerg/src/main.js" />
       </list>
     </option>
   </component>
@@ -174,20 +122,6 @@
               <item name="EsportEsbjerg" type="462c0819:PsiDirectoryNode" />
               <item name="esportesbjerg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EsportEsbjerg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EsportEsbjerg" type="462c0819:PsiDirectoryNode" />
-              <item name="esportesbjerg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EsportEsbjerg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EsportEsbjerg" type="462c0819:PsiDirectoryNode" />
-              <item name="esportesbjerg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,18 +176,18 @@
       <workItem from="1558509264782" duration="22831000" />
       <workItem from="1558598429263" duration="15906000" />
       <workItem from="1558679953822" duration="1721000" />
-      <workItem from="1558681892624" duration="11842000" />
+      <workItem from="1558681892624" duration="30806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78345000" />
+    <option name="totallyTimeSpent" value="97309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -265,7 +199,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2416" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2416" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -320,18 +254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esportesbjerg/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="109" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../2.Semester/portfolio/vue-cli/src/views/Header.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1584" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/esportesbjerg/src/assets/img/logoSVG.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -344,12 +266,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/Home.vue" />
-    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/main.js">
+    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="288">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#166#207#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -363,91 +293,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/styles/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding>
-            <element signature="e#166#207#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="269">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esportesbjerg/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="198" selection-start-line="11" selection-start-column="198" selection-end-line="11" selection-end-column="198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../2.Semester/portfolio/vue-cli/src/views/Header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/assets/img/facebook.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/FAQ.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="66" column="51" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/esportesbjerg/src/components/Header.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="183">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
           <folding>
-            <element signature="n#style#0;n#router-link#0;n#div#0;n#v-layout#0;n#v-toolbar#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#router-link#0;n#div#1;n#v-layout#0;n#v-toolbar#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#v-btn#0;n#template#0;n#v-menu#0;n#v-layout#0;n#v-toolbar#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#v-btn#0;n#template#0;n#v-menu#0;n#v-layout#0;n#v-toolbar#0;n#template#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/Forældre.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/FAQ.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="90" selection-start-line="18" selection-start-column="90" selection-end-line="18" selection-end-column="90" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/Kalender.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="207">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#v-card#0;n#v-flex#1;n#v-layout#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#template#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/components/Footer.vue">
+    <entry file="file://$PROJECT_DIR$/../../2.Semester/portfolio/vue-cli/src/views/Skills.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="-1411" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../2.Semester/portfolio/vue-cli/src/views/Videocv.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../2.Semester/portfolio/vue-cli/src/views/Projects.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4027" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../2.Semester/portfolio/vue-cli/src/views/Contact.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/styles/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/Forældre.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/FrontPage.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#v-card#0;n#v-flex#1;n#v-layout#0;n#v-container#0;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#v-card#0;n#v-flex#1;n#v-layout#0;n#v-container#0;n#div#2;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
+        <state relative-caret-position="-441">
+          <caret line="69" column="24" lean-forward="true" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/Tilmelding.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="74" column="23" lean-forward="true" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        <state relative-caret-position="125">
+          <caret line="276" selection-start-line="276" selection-end-line="281" selection-end-column="5" />
           <folding>
             <element signature="n#style#0;n#div#0;n#v-card-text#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#v-card-text#0;n#v-card#0;n#v-flex#1;n#v-layout#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/views/FrontPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="138" column="20" lean-forward="true" selection-start-line="138" selection-start-column="20" selection-end-line="138" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/components/Footer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-259">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esportesbjerg/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>

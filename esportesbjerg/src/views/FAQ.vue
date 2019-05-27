@@ -65,7 +65,6 @@
 <style lang="scss" scoped>
     #outbox {
         border: map-get($colorz, color2) solid 1px;
-        height: 400px;
         margin: 40px 0 20px 0;
         padding: 30px;
     }

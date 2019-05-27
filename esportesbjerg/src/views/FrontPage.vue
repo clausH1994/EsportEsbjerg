@@ -27,6 +27,8 @@
               er inde for E-sport og alt hvad der ligger under det område. <br> <br> Vi har til formål at skabe et godt og trygt
               miljø  hvor de unge kan komme og få et godt samvær med hinanden samt møde nye mennesker, dette gælder
               selvfølgelig ikke kun unge, men alle der har en interesse indenfor gaming.
+              Vi søger også frivillige til at hjælpe til i hverdagen, på forskellige område.
+              Hvis det lyder spændende kan vi kontaktes på mail eller telefon.
 </span>
                                         </div>
                                     </div>
@@ -132,6 +134,7 @@
     #frontImage {
         background-image: url("../assets/img/frontPageImage.jpg");
         background-size: cover;
+        background-position: center;
         height: 600px;
         width: 100%;
         opacity: 0.5;
@@ -149,7 +152,7 @@
 
     #outlineMain {
         border: map-get($colorz, color2) solid 1px;
-        height: 1250px;
+
     }
 
     #outerVideoBox {
@@ -184,6 +187,7 @@
         height: 350px;
         background-size: cover;
         box-shadow: $shadow;
+        margin: 10px 0;
     }
 
     .textbox {
@@ -191,6 +195,7 @@
         height: 350px;
         border: map_get($colorz, color2) solid 1px;
         box-shadow: $shadow;
+        margin: 10px 0;
     }
 
     .textbox2 {
@@ -200,6 +205,7 @@
         color: map_get($colorz, color1);
         border: map_get($colorz, color2) solid 1px;
         box-shadow: $shadow;
+        margin: 10px 0;
     }
 
     .fonttext {
@@ -208,5 +214,33 @@
 
     .spantext {
         font-size: 16px;
+    }
+
+    @media only screen and (max-width: 1250px) {
+        .textbox {
+
+            height: 400px;
+        }
+        .textbox2 {
+
+            height: 400px;
+        }
+        .picbox {
+            height: 400px;
+
+        }
+    }
+    @media only screen and (max-width: 750px) {
+        .textbox {
+            height: auto;
+        }
+        .textbox2 {
+
+            height: auto;
+        }
+        #titletext {
+            font-size: 70px;
+        }
+
     }
 </style>
