@@ -78,10 +78,13 @@
     #panel {
         box-shadow: $shadow;
         border: map-get($colorz, color2) solid 1px;
+
     }
 
     .content {
         border: map-get($colorz, color2) solid 1px;
+        font-family: $font2;
+        font-size: 16px;
     }
 
     .card {
