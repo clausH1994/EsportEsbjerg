@@ -21,9 +21,9 @@ derefter vil det koste:
 </span>
                             </div>
                             <ul>
-                                <li>300 kr for en dags træning i ugen.</li>
-                                <li>500 kr for to dages træning i ugen.</li>
-                                <li>750 kr for fire dages træning i ugen.</li>
+                                <li>300 kr for en dags træning i ugen for et halvt år.</li>
+                                <li>500 kr for to dages træning i ugen for et halvt år.</li>
+                                <li>750 kr for fire dages træning i ugen for et halvt år.</li>
                             </ul>
                             <div class="spacing">
                             <span>

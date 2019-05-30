@@ -17,8 +17,6 @@
                                     <v-card-text>
                                         <ul><li>Kvaglundhallen: Askekrattet 4, 6705 Esbjerg</li>
                                         <li> Cosmos skolen:  Skolebakken 166, 6705 Esbjerg</li></ul>
-
-
                                     </v-card-text>
                                 </v-card>
                             </v-expansion-panel-content>
@@ -29,9 +27,10 @@
                                 <v-card class="card">
                                     <v-card-text>
                                         <ul>
-                                            <li>100 Kr i basis medlemskab / år</li>
-                                            <li>300 Kr for en gang i ugen træning / ½år</li>
-                                            <li>500 Kr for to gange i ugen træning / ½år</li>
+                                            <li>100 Kr i basis medlemskab for et år</li>
+                                            <li>300 Kr for en gang i ugen træning for et halvt år</li>
+                                            <li>500 Kr for to gange i ugen træning for et halvt år</li>
+                                            <li>750 Kr for fire gange i ugen træning for et halvt år</li>
                                         </ul>
                                     </v-card-text>
                                 </v-card>

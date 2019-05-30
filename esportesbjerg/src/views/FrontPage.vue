@@ -101,11 +101,9 @@
             <div id="outerVideoBox">
                 <v-flex xs12 sm12>
                     <div id="inderVideoBox" class="centerPlacement">
-                        <iframe width="497" height="280" src="https://www.youtube.com/embed/mfqsEpjEtrw"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen>
-                        </iframe>
+                        <iframe width="497" height="280" src="https://www.youtube.com/embed/VIEWGNpFe3g"
+                                frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
                     </div>
                 </v-flex>
             </div>
@@ -239,7 +237,7 @@
             height: auto;
         }
         #titletext {
-            font-size: 70px;
+            font-size: 50px;
         }
 
     }

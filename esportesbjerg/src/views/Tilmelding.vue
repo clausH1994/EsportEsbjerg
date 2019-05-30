@@ -31,14 +31,14 @@ Disse fordele er:
                                     <h1>Deltager medlemskab:</h1>
                                     <div style="margin-top: 15px">
                         <span>
-Dette medlemskab kræver koster også 100 kr om året for basismedlem oveni deltager prisen. <br> <br>
-Den samlede pris includere træning med hold og i fællesskab med andre børn/unge med samme interesse.
+Dette medlemskab koster også 100 kr om året for basismedlem oveni deltager prisen. <br> <br>
+Den samlede pris inkludere træning med hold og i fællesskab med andre børn/unge med samme interesse.
 </span>
                                     </div>
                                     <ul>
-                                        <li>300 kr for en gang i ugen. 1. dags træning.</li>
-                                        <li>500 kr for to gang i ugen. 2. dages træning.</li>
-                                        <li>750 kr for fire gang i ugen. 4. dages træning.</li>
+                                        <li>300 kr for en gang i ugen. 1. dags træning for et halvt år</li>
+                                        <li>500 kr for to gang i ugen. 2. dages træning for et halvt år</li>
+                                        <li>750 kr for fire gang i ugen. 4. dages træning for et halvt år</li>
                                     </ul>
                                     <span>Træning foregår Mandag-Torsdag fra 18-20. </span>
                                 </v-card-text>
